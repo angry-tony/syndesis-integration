@@ -70,7 +70,7 @@
     <camel-atlasmap.version>1.32.2</camel-atlasmap.version>
     <apache-mime4j.version>0.6</apache-mime4j.version>
     <google-testing-compile.version>0.12</google-testing-compile.version>
-    <google-testing-compile-guava.version>21.0</google-testing-compile-guava.version>
+    <google-testing-compile-guava.version>29.0-jre</google-testing-compile-guava.version>
     <google-truth.version>0.35</google-truth.version>
 
     <!-- maven plugin version -->
@@ -514,7 +514,7 @@
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>23.3-jre</version>
+        <version>29.0-jre</version>
       </dependency>
 
       <dependency>
