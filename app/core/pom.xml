@@ -58,7 +58,7 @@
     <spring-cloud.version>Dalston.SR4</spring-cloud.version>
     <spring-cloud-kubernetes.version>0.1.6</spring-cloud-kubernetes.version>
     <spring-cloud-sleuth.version>1.2.5.RELEASE</spring-cloud-sleuth.version>
-    <spring-security.version>4.2.3.RELEASE</spring-security.version>
+    <spring-security.version>5.5.7</spring-security.version>
     <spring-social.version>1.1.4.RELEASE</spring-social.version>
     <undertow.version>1.4.21.Final</undertow.version>
     <camel-atlasmap.version>${atlasmap.version}</camel-atlasmap.version>
